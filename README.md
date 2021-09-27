@@ -1,4 +1,4 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+![App Brewery Banner](https://github.com/thukha-pixel/mi_card_flutter/blob/master/images/fullshackdeveloper.jpg)
 
 # Mi Card
 
